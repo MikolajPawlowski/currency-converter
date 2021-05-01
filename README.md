@@ -21,6 +21,8 @@ It converts PLN currency to USD, or into cryptocurrency BTC and Doge.
 >- *simple JavaScript interactions*
 >- *BEM naming methodology*
 
+<br>
+
 ![Gif Sample](https://github.com/MikolajPawlowski/currency-converter/blob/main/images/converter-gif.gif?raw=true "Gid Sample")
 
 <em>Contact: <pawlowskiem@gmail.com>
